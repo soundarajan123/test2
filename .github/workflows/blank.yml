@@ -36,7 +36,7 @@ jobs:
 
     #if: ${{ github.ref == 'refs/heads/main' }}  
 
-    if: github.repository == 'Soundar/matrix-demo' 
+    if: github.repository == 'Soundarajan123/test2' 
 
     runs-on: ubuntu-latest
 
