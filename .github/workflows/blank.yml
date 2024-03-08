@@ -42,7 +42,7 @@ jobs:
 
     env:
 
-      Day: monday
+      Day: friday
 
       name: soundar
 
