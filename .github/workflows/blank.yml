@@ -36,7 +36,7 @@ jobs:
 
     #if: ${{ github.ref == 'refs/heads/main' }}  
 
-    if: github.repository == 'Shubham-Bawa/matrix-demo' 
+    if: github.repository == 'Soundar/matrix-demo' 
 
     runs-on: ubuntu-latest
 
@@ -44,7 +44,7 @@ jobs:
 
       Day: monday
 
-      name: shubham
+      name: soundar
 
       company: acccenture
 
